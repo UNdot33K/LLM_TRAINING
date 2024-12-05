@@ -1,4 +1,4 @@
-Article name :: We :: Come :: In :: Peace! :: V2
+Article name :: We :: Come :: In :: Peace! :: v2
 (05/12/24)
 
 There is a growing discussion around the plateauing of Large Language Models and if 'The law of diminishing marginal 
