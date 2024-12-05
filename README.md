@@ -88,7 +88,6 @@ The Idea is a collaborative, multi-LLM framework where specialized models work t
 What it offers? It provides more flexibility in scaling, refines the consensus process, and introduces redundancy to reduce the chances of issues halting the system. The addition of adaptable ethical guidelines and prioritization helps balance innovation and responsibility.
 
 
-
 :: Copyright (c) 2024 Un.33k (www.github.com/UNdot33K)
 :: Permission to freely use, copy, modify, merge, publish, distribute (with no commercial
 :: intention of any form, unless 1. licenced for commercial use, 2. heavily modified beyond the
