@@ -5,7 +5,7 @@ may not follow the same curve. Specialized Language Models (SLMs) can be more ef
 The provided text demostrates an idea in progress, for the training of Large Language Models (LLMs).
 
 
-V2:
+Article name :: We :: Come :: In :: Peace! :: V2
 (05/12/24)
 
 **Concept Overview:**
@@ -87,8 +87,6 @@ The Idea is a collaborative, multi-LLM framework where specialized models work t
    - Ethical guidelines must strike a balance between flexibility and rigor. Too much flexibility could allow harmful data to pass through, while excessive rigidity could hinder the model's ability to evolve or address emerging ethical concerns.
 
 What it offers? It provides more flexibility in scaling, refines the consensus process, and introduces redundancy to reduce the chances of issues halting the system. The addition of adaptable ethical guidelines and prioritization helps balance innovation and responsibility.
-
-:: We :: Come :: In :: Peace! ::
 
 :: Copyright (c) 2024 Un.33k (www.github.com/UNdot33K)
 :: Permission to freely use, copy, modify, merge, publish, distribute (with no commercial
